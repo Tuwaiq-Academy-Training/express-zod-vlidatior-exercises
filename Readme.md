@@ -61,7 +61,7 @@ get all the movies by given genre
 ## التمرين الثاني
 ### Create Student managment software
 
-### Student Class : ID, name , specialization , level , GPA:
+### Student Class : ID, name , specialization , level , gpa:
 
 ### ID:
 
