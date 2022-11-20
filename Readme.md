@@ -45,10 +45,15 @@ It must be more than 60
 ### Endpoints :
 
 Get all the movies
+
 Add new movie
+
 Update movie
+
 Delete movie
+
 Search for a movie by given name
+
 get all the movies by given genre
 
 
