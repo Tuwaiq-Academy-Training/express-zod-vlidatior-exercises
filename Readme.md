@@ -2,9 +2,9 @@
 
 
 ## التمرين الاول:
-Create Movie rating software
+### Create Movie rating software
 
-Movie Class : ID, name , genre , rating , duration ID :
+### Movie Class : ID, name , genre , rating , duration ID :
 
 ### ID:
 
