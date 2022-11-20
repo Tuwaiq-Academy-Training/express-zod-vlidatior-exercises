@@ -9,25 +9,37 @@ Movie Class : ID, name , genre , rating , duration ID :
 ID:
 
 Cannot be null
+
 Length more than 3
+
 name :
 
 Cannot be null
+
 Length more than 3
+
 genre :
 
 Cannot be null
+
 Validation (Drama|Action|Comedy)
+
 rating :
 
 Cannot be null
+
 Has to be a number
+
 I must be between 1 - 5
+
 duration :
 
 Cannot be null
+
 Has to be a number
+
 Has to be represented in minutes
+
 It must be more than 60
 
 Endpoints :
