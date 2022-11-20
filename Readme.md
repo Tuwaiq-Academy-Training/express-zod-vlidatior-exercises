@@ -135,6 +135,7 @@ Length more than 6
 ### Password :
 
 Cannot be null
+
 At least 1 upper case, lower case, numeric, and special character
 
 
