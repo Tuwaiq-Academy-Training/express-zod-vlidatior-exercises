@@ -4,7 +4,7 @@
 ## التمرين الاول:
 ### Create Movie rating software
 
-### Movie : ID, name , genre , rating , duration ID :
+### Movie : ID, name , genre , rating , duration 
 
 ### ID:
 
