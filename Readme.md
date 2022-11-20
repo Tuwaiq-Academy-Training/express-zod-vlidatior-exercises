@@ -6,25 +6,25 @@ Create Movie rating software
 
 Movie Class : ID, name , genre , rating , duration ID :
 
-ID:
+### ID:
 
 Cannot be null
 
 Length more than 3
 
-name :
+### name :
 
 Cannot be null
 
 Length more than 3
 
-genre :
+### genre :
 
 Cannot be null
 
 Validation (Drama|Action|Comedy)
 
-rating :
+### rating :
 
 Cannot be null
 
@@ -32,7 +32,7 @@ Has to be a number
 
 I must be between 1 - 5
 
-duration :
+### duration :
 
 Cannot be null
 
@@ -42,7 +42,7 @@ Has to be represented in minutes
 
 It must be more than 60
 
-Endpoints :
+### Endpoints :
 
 Get all the movies
 Add new movie
