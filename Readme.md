@@ -58,4 +58,61 @@ get all the movies by given genre
 
 
 
+## التمرين الثاني
+### Create Student managment software
+
+### Student Class : ID, name , specialization , level , GPA:
+
+### ID:
+
+Cannot be null
+
+Length more than 3
+
+### name :
+
+Cannot be null
+
+Length more than 3
+
+### specialization :
+
+Cannot be null
+
+Validation (IT|IS|CS|SWE)
+
+### Level :
+
+Cannot be null
+
+Has to be a number
+
+It must be between 1-8
+
+### GPA :
+
+Cannot be null
+
+Has to be a number
+
+It must be between 0-5
+
+### Endpoints :
+
+Get all Students
+
+Add new student
+
+Update student
+
+Delete student
+
+Get all the students by given specialization
+
+Change current student level to the next level
+
+
+
+
+
 
