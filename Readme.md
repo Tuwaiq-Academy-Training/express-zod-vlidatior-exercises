@@ -4,7 +4,7 @@
 ## التمرين الاول:
 ### Create Movie rating software
 
-### Movie Class : ID, name , genre , rating , duration ID :
+### Movie : ID, name , genre , rating , duration ID :
 
 ### ID:
 
@@ -61,7 +61,7 @@ get all the movies by given genre
 ## التمرين الثاني
 ### Create Student managment software
 
-### Student Class : ID, name , specialization , level , gpa:
+### Student : ID, name , specialization , level , gpa:
 
 ### ID:
 
