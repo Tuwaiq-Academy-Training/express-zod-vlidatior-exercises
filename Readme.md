@@ -61,7 +61,7 @@ get all the movies by given genre
 ## التمرين الثاني
 ### Create Student managment software
 
-### Student : ID, name , specialization , level , gpa:
+### Student : ID, name , major , level , gpa:
 
 ### ID:
 
@@ -75,7 +75,7 @@ Cannot be null
 
 Length more than 3
 
-### specialization :
+### major :
 
 Cannot be null
 
@@ -107,9 +107,58 @@ Update student
 
 Delete student
 
-Get all the students by given specialization
+Get all the students by given major
 
 Change current student level to the next level
+
+
+
+
+
+## التمرين الثالث
+## Create Bank management system
+
+### Customer : ID, Username , Password , Balance:
+
+### ID:
+
+Cannot be null
+
+Length more than 3
+
+### Username :
+
+Cannot be null
+
+Length more than 6 
+
+### Password :
+
+Cannot be null
+At least 1 upper case, lower case, numeric, and special character
+
+
+### Balance :
+
+Cannot be null
+
+Positive number
+
+### Endpoints :
+
+Get all customers
+
+Add new customer
+
+Update customer
+
+Delete customer
+
+Create endpoint that withdraws money (return bad request if customers don't have funds)
+
+Create endpoint that deposits money 
+
+
 
 
 
